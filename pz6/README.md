@@ -5,7 +5,7 @@
 
 *Реузльтат работы задачи динамического программирования без стоимости*
 -
-![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/20585f0d-926f-401a-a029-d7f690863f91)
+![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/71802f4f-c2b1-4742-9784-eb4e5fca79be)
 
 
 
