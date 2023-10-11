@@ -38,9 +38,15 @@ n = int(input('Введите значение n: '))
 d = int(input('Введите значение d: '))
 result, prices, indices = price_ways(n, d)
 
+full_price =[0]*len(prices)
+
+for i in range(1,len(full_price)+1:
+    full_price[il=full_price[i-1]+prices[i]
+    
 print(f'Минимальная сумма достичь {n}: {result}')
 print('Цены за выбранные ступеньки:', prices)
 print('Индексы выбранных ступенек:', indices)
+print('Полная цена за выбранные ступеньки:', full_price)
 
 x = indices
 y = prices
