@@ -40,16 +40,16 @@ result, prices, indices = price_ways(n, d)
 
 full_price =[0]*len(prices)
 
-for i in range(1,len(full_price)+1:
-    full_price[il=full_price[i-1]+prices[i]
-    
+for i in range(len(full_price)):
+    full_price[i]=full_price[i-1]+prices[i]
+   
 print(f'Минимальная сумма достичь {n}: {result}')
-print('Цены за выбранные ступеньки:', prices)
+print('Цены за выбранные ступеньки:', full_price)
 print('Индексы выбранных ступенек:', indices)
 print('Полная цена за выбранные ступеньки:', full_price)
 
 x = indices
-y = prices
+y = full_price
 
 plt.plot(x, y)  
 plt.scatter(x, y, color='red', marker='o', label='Выбранные ступеньки')
