@@ -14,4 +14,4 @@
 ![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/03c816bd-5148-489c-b640-b66fa2ee788f)
 
 ![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/bc858863-bc23-4170-ab3d-d6a57a070bde)
-
+![logo](https://github.com/setusq/PraktikaG34N6/assets/125801694/ff4d906b-2deb-4f95-a154-72ae1adb9f8a)
