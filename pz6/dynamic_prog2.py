@@ -44,7 +44,7 @@ for i in range(len(full_price)):
     full_price[i]=full_price[i-1]+prices[i]
    
 print(f'Минимальная сумма достичь {n}: {result}')
-print('Цены за выбранные ступеньки:', full_price)
+print('Цены за выбранные ступеньки:', prices)
 print('Индексы выбранных ступенек:', indices)
 print('Полная цена за выбранные ступеньки:', full_price)
 
