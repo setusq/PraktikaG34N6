@@ -11,6 +11,7 @@
 
 *Результат работы задачи динамического программирования, предполагая что стоимость увеличивается в арифметической прогрессии, а N=100*
 -
-![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/61e02aff-4b86-4d52-b483-01050036e498)
+![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/03c816bd-5148-489c-b640-b66fa2ee788f)
+
 ![image](https://github.com/setusq/PraktikaG34N6/assets/125801694/bc858863-bc23-4170-ab3d-d6a57a070bde)
 
